@@ -1,0 +1,5 @@
+build
+crux/crux
+*.o
+a.out.dSYM/
+a.out
